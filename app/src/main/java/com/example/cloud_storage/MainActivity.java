@@ -88,6 +88,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     ImageView imageView;
     Uri filePath;
     StorageReference firebaseStorage;
+    String x;
 
 
 
